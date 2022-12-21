@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn R
+          Learn Rㅇㅇㅇ
         </a>
       </header>
     </div>
